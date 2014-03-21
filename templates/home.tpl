@@ -6,10 +6,11 @@
 		<body>
 			{include file='includes/topnav.tpl'}
 			
-			<div class="container">
+			
+			<div class="container-fluid">
 				<!-- Ein Block über die ganze Breite -->
 				<div class="row">
-					<div>
+					<div>{$maincontent}
 					  {blockposition name=homefullwidth}
 					  <p> hier der Block mit Seitenbreite</p>
 					</div>
@@ -22,7 +23,7 @@
 					</div>
 					<div class="col-md-9">
 						{blockposition name=center}
-						{$maincontent}
+						
 					</div>
 				</div>
 			</div>

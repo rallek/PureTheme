@@ -6,6 +6,8 @@
 <meta http-equiv="X-UA-Compatible" content="chrome=1" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0,user-scalable = no">
 
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+
 <!-- Wird für Boostrap benötigt -->
 <!-- Das neueste kompilierte und minimierte CSS -->
 <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
