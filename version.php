@@ -15,7 +15,7 @@
 $themeversion['name'] = 'PureTheme';
 $themeversion['displayname'] = __('PureTheme');
 $themeversion['description'] = __("Zikula Theme based on Bootstrap by rallek");
-$themeversion['version'] = '1.0';
+$themeversion['version'] = '0.3';
 $themeversion['admin'] = 1;
 $themeversion['user'] = 1;
 $themeversion['system'] = 0;
